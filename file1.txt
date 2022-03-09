@@ -1,2 +1,7 @@
 line1 added by akshay
+<<<<<<< HEAD
 this line is added by akshay
+=======
+line2 added by vijay
+line3 added by vijay
+>>>>>>> 0e890a52bdebc2984add20b8b69222b63266779c
